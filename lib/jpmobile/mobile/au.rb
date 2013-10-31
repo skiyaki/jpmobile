@@ -70,7 +70,7 @@ module Jpmobile::Mobile
 
     # cookieに対応しているか？
     def supports_cookie?
-      return true
+      return false
     end
 
     # 文字コード変換
